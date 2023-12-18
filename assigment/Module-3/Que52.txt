@@ -1,0 +1,18 @@
+# How Many Basic Types Of Functions Are Available In Python?
+
+--> There are mainly two types of functions in Python. Built-in library function: These are Standard functions in Python that are available to use. User-defined function: We can create our own functions based on our requirements.
+
+--> Built-in library function: These are Standard functions in Python that are available to use.
+--> User-defined function: We can create our own functions based on our requirements.
+
+--> Creating a Function in Python
+    """def fun():
+    print("Welcome to GFG")"""
+
+--> Calling a  Python Function
+        """ def fun():
+        print("Welcome to GFG")
+    
+    
+    # Driver code to call a function
+    fun()"""
